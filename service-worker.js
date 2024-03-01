@@ -2,7 +2,7 @@
 // CODELAB: Update cache names any time any of the cached files change.
 const CACHE_NAME = 'sdavidprince-space-static-cache-v1';
 
-const FILES_TO_CACHE = ['https://rawcdn.githack.com/elhakimyasya/EL-Creative/b730e8daba19f4433265a2388ca3c6410f1bbc85/offline.html'];
+const FILES_TO_CACHE = ['https://rawcdn.githack.com/sdavidprince/sdpp/a03cd14b7e909ec0a801fbc7d36d248cc594c284/offline.html'];
 
 self.addEventListener('install', (evt) => {
 	console.log('[ServiceWorker] Install');
